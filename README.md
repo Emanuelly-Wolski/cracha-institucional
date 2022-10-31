@@ -17,6 +17,9 @@ Desenvolver uma aplicação web mais próxima possível de um crachá institucio
 - Criação de variáveis para cores;
 - Planejamento e análise da estrutura do projeto;
 
+## Obs:
+O vídeo institucional está disponível publicamente no canal da Votorantim do Youtube, através do seguinte link: https://www.youtube.com/watch?v=SFnGnMWYUFU
+
 ## Tecnologias utilizadas ⚔
 
 <div style="display: inline_block"><br>
