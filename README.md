@@ -39,5 +39,5 @@ Feito isso, basta seguir os passos a seguir:
 2️⃣ Ou se o seu editor de código for o VsCode, dentro arquivo HTML basta utilizar o atalho alt + l + o que através da extensão Live Server irá ser executado os códigos e exibido diretamente no console do seu navegador.
 
 ## Vizualização ✨
-[<img src="./video-institucional.png" alt="imagem do site">]
+[<img src="video-institucional.png" alt="imagem do site">]
 
