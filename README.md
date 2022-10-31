@@ -18,7 +18,7 @@ Desenvolver uma aplicação web mais próxima possível de um crachá institucio
 - Planejamento e análise da estrutura do projeto;
 
 ## Obs:
-O vídeo institucional está disponível publicamente no canal da Votorantim do Youtube, através do seguinte link: https://www.youtube.com/watch?v=SFnGnMWYUFU
+O vídeo institucional está disponível publicamente no canal da Votorantim no Youtube, através do seguinte link: https://www.youtube.com/watch?v=SFnGnMWYUFU
 
 ## Tecnologias utilizadas ⚔
 
